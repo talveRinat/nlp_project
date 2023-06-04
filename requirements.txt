@@ -1,0 +1,8 @@
+newspaper3k
+streamlit
+transformers==4.29.2
+nltk
+watchdog
+sacremoses
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.1
